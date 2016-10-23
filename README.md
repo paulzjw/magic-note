@@ -1,2 +1,2 @@
-# magic-note-book
-note book
+# magic-note
+magic note.
