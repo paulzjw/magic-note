@@ -1,6 +1,4 @@
 # magic-note
 magic note.
 
-is there many magic for notebook?
-
-zzzzzz
+is there any magic for notebook?
